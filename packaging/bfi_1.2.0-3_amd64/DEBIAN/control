@@ -1,0 +1,8 @@
+Package: bfi
+Version: 1.2
+Section: main
+Priority: optional
+Architecture: amd64
+Depends: 
+Maintainer: Martial Goehry <martial.goehry@gmail.com>
+Description: Interpréteur pour le language BrainFuck
