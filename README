@@ -1,0 +1,7 @@
+le dossier srv/ contient les sources de l'interpéteur. 
+
+Le pdf IED_Compilation-Interpreation_L3-Projet_GOEHRY-Martial.pdf contient toutes les explications du programme. 
+
+le dossier packaging/ contient le paquet bfi_1.1.0-2_amd64.deb qui permet d'installer facilement le programme sur un ordinateur amd64 sans compilation. 
+
+Le sous-dossier bfi_1.1.0-2_amd64/ contient tout le nécessaire pour faire la construction du paquet. 
